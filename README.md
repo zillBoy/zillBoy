@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/08f0cb9d-6416-4d61-97c9-789a4c309b63/deploy-status)](https://app.netlify.com)
 ### Hi there 👋
 
 [![@zillboy's Holopin board](https://holopin.io/api/user/board?user=zillboy)](https://holopin.io/@zillboy)
