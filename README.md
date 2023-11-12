@@ -1,8 +1,7 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/08f0cb9d-6416-4d61-97c9-789a4c309b63/deploy-status)](https://app.netlify.com)
 # Muhammad Usman
 ### Software Engineer
 
-⤷ Hi, I'm a Software Engineer with 2.5+ years of experience. Proficient in React.js, Next.js, Node, JavaScript, PostgreSQL, MongoDB, Firebase, HTML, CSS, SCSS, Redux, Jest, Figma & collaboration tools.
+⤷ Hi, I'm a Software Engineer (Frontend) with 2.5+ years of experience. Proficient in React.js, Next.js, Node, JavaScript, PostgreSQL, MongoDB, Firebase, HTML, CSS, SCSS, Redux, Jest, Figma & collaboration tools.
 
  <a aligh="left" href="https://https://musmanrd.netlify.app/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:musman0741@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/muhammad-usman-28a737177/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a> <a aligh="left" href="https://www.behance.net/https://www.behance.net/muhammausmanz" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/behance.svg" alt="Behance" width="22" height="22" /></a>  
 
