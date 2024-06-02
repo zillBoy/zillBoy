@@ -5,8 +5,6 @@
 
  <a aligh="left" href="https://https://musmanrd.netlify.app/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:musman0741@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/muhammad-usman-28a737177/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a> <a aligh="left" href="https://www.behance.net/https://www.behance.net/muhammausmanz" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/behance.svg" alt="Behance" width="22" height="22" /></a>  
 
-⚐ Based in Islamabad, Pakistan
-
 ϟ Currently Building scalable & efficient apps with great UX. Always open to new opportunities & collaborations
 
 <!--
