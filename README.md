@@ -11,7 +11,7 @@
 
 📦 Toolbox
 ------
-Frontend Development: `React` `Next.js` `JavaScript` `TypeScript` `React Native` `Redux Toolkit` `React Router Dom` `React Hook Form`
+Frontend Development: `React` `Next.js` `JavaScript` `TypeScript` `React Native` `Redux Toolkit` `React Hook Form`
 
 Styling: `CSS` `Sass` `TailwindCSS` `Styled Components` `Material-UI` `Framer-Motion` `Bootstrap`
 
