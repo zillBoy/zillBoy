@@ -9,7 +9,19 @@
 *  🤝  I'm open to collaborating on Innovative Projects
 *  ⚡ Fun fact: I love React.Js
 
-Proficient in React.js, Next.js, Node, JavaScript, PostgreSQL, MongoDB, Firebase, HTML, CSS, SCSS, Redux, Jest, Figma & collaboration tools.
+📦 Toolbox
+------
+Frontend Development: `React` `Next.js` `JavaScript` `TypeScript` `React Native` `Redux Toolkit` `React Router Dom` `React Hook Form`
+
+Styling: `CSS` `Sass` `TailwindCSS` `Styled Components` `Material-UI` `Framer-Motion` `Bootstrap`
+
+Version Control: `Git` `GitHub` `Bitbucket`
+
+Backend Development: `Node.js` `Firebase` `Supabase` `GraphQL`
+
+Testing: `React Testing Library` `Jest` `Playwright` `Postman`
+
+Others: `PostgreSQL` `MongoDB` `Three.js` `React Three Fiber` `Zustand`  `Scrum` `Jira` `Confluence` `Figma`
 
 ϟ Currently Building scalable & efficient apps with great UX. Always open to new opportunities & collaborations
 
