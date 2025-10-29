@@ -5,7 +5,7 @@
 
 *  🌍  I'm based in Pakistan
 *  ✉️  You can contact me at musman0741@gmail.com
-*  🚀  I'm currently working at Monstyr (startup in Singapore)
+*  🚀  I'm currently working at Aera Technology (Enterprise technology company with offices in USA, Romania, India)
 *  🤝  I'm open to collaborating on Innovative Projects
 *  ⚡ Fun fact: I love React.Js
 
